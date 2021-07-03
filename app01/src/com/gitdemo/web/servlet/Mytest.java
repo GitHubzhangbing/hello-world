@@ -20,5 +20,6 @@ public class Mytest {
         System.out.println(map.put("重地",40));               // null
         System.out.println("集合中键值对数量：" + map.size());   // 集合中键值对数量：3
         System.out.println("集合内容" + map);                  // 集合内容{通话=30, 随便=20, 重地=40}
+
     }
 }
